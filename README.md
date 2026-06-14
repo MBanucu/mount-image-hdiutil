@@ -10,6 +10,10 @@ Disk image mounting via hdiutil (macOS).
 [![CI](https://img.shields.io/github/actions/workflow/status/MBanucu/mount-image-hdiutil/test.yml?branch=main)](https://github.com/MBanucu/mount-image-hdiutil/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/MBanucu/mount-image-hdiutil/branch/main/graph/badge.svg)](https://codecov.io/gh/MBanucu/mount-image-hdiutil)
 
+[![Downloads total](https://pepy.tech/badge/mount-image-hdiutil)](https://pepy.tech/project/mount-image-hdiutil)
+[![Downloads/month](https://pepy.tech/badge/mount-image-hdiutil/month)](https://pepy.tech/project/mount-image-hdiutil)
+[![Downloads/week](https://pepy.tech/badge/mount-image-hdiutil/week)](https://pepy.tech/project/mount-image-hdiutil)
+
 ## Quick start
 
 ```python
